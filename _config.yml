@@ -107,7 +107,8 @@ analytics:
 # Site Author
 author:
   name             : "Jackie Zheng"
-  avatar           : "/images/treeroad.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/treeroad.jpg"  
+  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Tech Blog"
   location         : "Cleveland, OH"
   email            :
