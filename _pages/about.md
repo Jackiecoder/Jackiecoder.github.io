@@ -6,4 +6,4 @@ header:
 ---
 
 
-I'm a master student majored in computer engineering, artificial intelligence track.
+I'm a master student majored in computer science, artificial intelligence track.
